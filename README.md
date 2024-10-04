@@ -6,7 +6,7 @@ Welcome to the Arc Jumpstart Drops repository! This repository is your go-to res
   <img src="./img/drops_banner.png" alt="Arc Jumpstart logo" width="700">
 </p>
 
-tuandv
+
 
 To get started, please carefully read our [Contributing guidelines](https://aka.ms/JumpstartDropsContribute). For any other question, check [Frequently Asked Questions (FAQ)](./FAQ.md) or submit an [Issue](./issues).
 
